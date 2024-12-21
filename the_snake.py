@@ -180,7 +180,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-# def update_direction(self):
-#     if self.next_direction:
-#         self.direction = self.next_direction
-#         self.next_direction = None
